@@ -9,12 +9,13 @@ body {
 /*--- navigation bar ---*/
 
 .navbar {
-	background: #6ab446;
+	background: #e8e4e4;
 }
 
 .nav-link,
 .navbar-brand {
 	color: #fff;
+	color: black;
 	cursor: pointer;
 }
 
